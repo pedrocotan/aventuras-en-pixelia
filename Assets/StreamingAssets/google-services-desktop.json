@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912894560518",
+    "project_id": "prueba-login-e83dd",
+    "storage_bucket": "prueba-login-e83dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912894560518:android:c6f84083056966d917b687",
+        "android_client_info": {
+          "package_name": "com.pedro.pixelia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALYOSAybPozHkfvxblyUqbHqxz07c77IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
